@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 강남 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-018.vercel.app</link>
-  <description><![CDATA[마포 주식투자 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Wed, 27 May 2026 22:39:35 GMT</pubDate>
-  <lastBuildDate>Wed, 27 May 2026 22:39:35 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-018.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[주식투자]]></title>
+  <link>https://bp-sf-t3-1779642675702-018.netlify.app</link>
+  <description><![CDATA[주식투자 - 강남 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 03:05:13 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 03:05:13 GMT</lastBuildDate>
+  <atom:link href="https://bp-sf-t3-1779642675702-018.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 강남 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-018.vercel.app/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-018.vercel.app/</guid>
-      <description><![CDATA[마포 주식투자 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Wed, 27 May 2026 22:39:35 GMT</pubDate>
+      <title><![CDATA[강남 셔츠룸 선택 전에 확인할 체크리스트와 실패 사례]]></title>
+      <link>https://bp-sf-t3-1779642675702-018.netlify.app/posts/checklist-001-pc6qfh.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-018.netlify.app/posts/checklist-001-pc6qfh.html</guid>
+      <description><![CDATA[### 포스트 DNA 9889b0fd #### 제목: 착각의 진실: 강남 셔츠룸 폐업 원인과 살아남은 비결 아, 진짜... 서비스업계 전문가들이 꼭 알고 있어야 할 '강남 셔츠룸' 폐업 사례와 생존 전략. 월 매출 3000만원 찍고도 6개월 만에 폐업한 진짜 원가 구조]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[강남 셔츠룸에 관한 흔한 오해, 직접 확인해보니 달랐던 점]]></title>
+      <link>https://bp-sf-t3-1779642675702-018.netlify.app/posts/myth-002-pc6qfh.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-018.netlify.app/posts/myth-002-pc6qfh.html</guid>
+      <description><![CDATA[### 구체적 니치 콘텐츠 작성 #### 강남 셔츠룸에 관한 흔한 오해, 직접 확인해보니 달랐던 점 서비스업계와 로컬 비즈니스 뒷이야기의 깊은 관심으로, 이번 포스트에서는 2023년 홍대 상권에서 폐업한 업소들의 공통된 원인과 살아남은 곳들의 차별화 전략에 대해 구체적]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
